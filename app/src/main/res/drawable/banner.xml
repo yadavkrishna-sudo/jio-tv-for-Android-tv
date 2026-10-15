@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Placeholder 320x180 launcher banner. Replace with a real banner (incl. app name text) before publishing. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+    <path android:fillColor="#0B0F14" android:pathData="M0,0h320v180h-320z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#2DD4BF"
+        android:strokeWidth="6"
+        android:pathData="M110,42 h100 a10,10 0 0 1 10,10 v66 a10,10 0 0 1 -10,10 h-100 a10,10 0 0 1 -10,-10 v-66 a10,10 0 0 1 10,-10 z" />
+    <path android:fillColor="#2DD4BF" android:pathData="M148,68 L148,104 L180,86 z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#2DD4BF"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:pathData="M135,146 L185,146" />
+</vector>
